@@ -1,5 +1,5 @@
 ![image](https://user-images.githubusercontent.com/36363910/156784737-1cc4bb54-4673-4b6c-a935-eacf723ef867.png)
-
+# HMS Medical AI Lab
 # viewmaker_simclr
 
 For pretraining, python run.py -vm --encoder [basic_cnn/resnet] --batch_size --auto_lr_find
