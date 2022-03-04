@@ -1,5 +1,4 @@
-# aihc-fall20-selfecg
-Repo for 3KG, a system for self-supervised learning of 12-lead electrocardiograms using domain-aware augmentations.
+
 
 ## Installation 
 
